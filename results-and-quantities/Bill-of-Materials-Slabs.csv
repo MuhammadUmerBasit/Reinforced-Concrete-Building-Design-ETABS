@@ -1,0 +1,8 @@
+Sr. No.,Item,Quantity,Unit,
+1,Total Area, A,217,664.9,Sq FT,
+2,Total Volume, V,90,693.69,CU FT,
+3,Average Thickness, T=V/A,5.0,IN,
+4,Total Rebars Weight, W,36.728,TON,
+5,Rebars Per Area, W/A,0.37,LBS/Sq FT,
+6,Rebars Ratio, W/V,0.893,LBS/CU FT,
+,,,,
